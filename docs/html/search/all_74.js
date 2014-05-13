@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['t',['t',['../classClock.html#a1e26df655ded6317d0776592455934b4',1,'Clock']]],
+  ['test',['TEST',['../A1UnitTests_8cpp.html#a4c729d81e53da3a047d398c7702ea0ae',1,'TEST(A1UnitTestDemos, Construction):&#160;A1UnitTests.cpp'],['../A1UnitTests_8cpp.html#a3b4ea7785912f4ad01beb63d9b45d5cd',1,'TEST(A1UnitTestDemos, Interaction):&#160;A1UnitTests.cpp'],['../AffineTransformUnitTests_8cpp.html#aecb98b3b4015f2c3327f71cc28f805d9',1,'TEST(AffineTransformTests, IdentityTests):&#160;AffineTransformUnitTests.cpp'],['../AffineTransformUnitTests_8cpp.html#a2a6e0b477746d45d9a85a305e6f99b28',1,'TEST(AffineTransformTests, RotationTests):&#160;AffineTransformUnitTests.cpp'],['../AffineTransformUnitTests_8cpp.html#acf49b765f4bd798ecc18e092ef2a2b83',1,'TEST(AffineTransformTests, ScaleTests):&#160;AffineTransformUnitTests.cpp'],['../AffineTransformUnitTests_8cpp.html#a1e95b715b94be278583b6355e2091bf4',1,'TEST(AffineTransformTests, TranslationTests):&#160;AffineTransformUnitTests.cpp'],['../AffineTransformUnitTests_8cpp.html#aa4bf2eea5bf8a01149a9c4339a8ebe93',1,'TEST(AffineTransformTests, MatrixMultiplicationTests):&#160;AffineTransformUnitTests.cpp'],['../AffineTransformUnitTests_8cpp.html#a2a9b1136f8171e97935786513088243b',1,'TEST(AffineTransformTests, CopyConstructorTest):&#160;AffineTransformUnitTests.cpp'],['../EventQueueUnitTests_8cpp.html#ab95e934cb5668c7c2201e3f37a27bc92',1,'TEST(EventQueueTests, EventQueuing):&#160;EventQueueUnitTests.cpp'],['../EventQueueUnitTests_8cpp.html#aaaa698c6cf25651646d9f61533760dce',1,'TEST(EventQueueTests, EventQueueDestructorTest):&#160;EventQueueUnitTests.cpp'],['../EventQueueUnitTests_8cpp.html#a1815548eb698e79acd91af3950bf64fb',1,'TEST(EventQueueTests, TimerTests):&#160;EventQueueUnitTests.cpp'],['../XApplicationUnitTests_8cpp.html#adb1956bbe0a8bf9d7dbdc9e5949e1379',1,'TEST(XApplicationTests, Construction):&#160;XApplicationUnitTests.cpp']]],
+  ['timer',['Timer',['../classcs349_1_1Timer.html',1,'cs349']]],
+  ['timer',['timer',['../classcs349_1_1StopWatch.html#a9b40c726d6ba79e19e97a08119183555',1,'cs349::StopWatch::timer()'],['../classcs349_1_1TimerEvent.html#a6768f9e702a3419f237fb9b60c2848ba',1,'cs349::TimerEvent::timer()'],['../classcs349_1_1EventQueue.html#a50de43af5bed41f30c071d8cce0e81bc',1,'cs349::EventQueue::Timer()'],['../classcs349_1_1TimerEvent.html#a50de43af5bed41f30c071d8cce0e81bc',1,'cs349::TimerEvent::Timer()'],['../classcs349_1_1Timer.html#a542a6b66197a2720a85c13d9d5bbc923',1,'cs349::Timer::Timer()']]],
+  ['timer_2ecpp',['Timer.cpp',['../Timer_8cpp.html',1,'']]],
+  ['timer_2eh',['Timer.h',['../Timer_8h.html',1,'']]],
+  ['timerevent',['TimerEvent',['../classcs349_1_1TimerEvent.html',1,'cs349']]],
+  ['timerevent',['TimerEvent',['../classcs349_1_1Timer.html#a7f9c386c7ca82abf456bc9d04a2e38a2',1,'cs349::Timer::TimerEvent()'],['../classcs349_1_1TimerEvent.html#a1b34b41d12cd6b234ed2f5158c675820',1,'cs349::TimerEvent::TimerEvent()']]],
+  ['timerevent_2ecpp',['TimerEvent.cpp',['../TimerEvent_8cpp.html',1,'']]],
+  ['timerevent_2eh',['TimerEvent.h',['../TimerEvent_8h.html',1,'']]],
+  ['timerlistener',['TimerListener',['../classcs349_1_1TimerListener.html',1,'cs349']]],
+  ['timerlistener',['TimerListener',['../classcs349_1_1TimerListener.html#a61b8fdd98aec48a31aecea79fad3bbad',1,'cs349::TimerListener']]],
+  ['timerlistener_2ecpp',['TimerListener.cpp',['../TimerListener_8cpp.html',1,'']]],
+  ['timerlistener_2eh',['TimerListener.h',['../TimerListener_8h.html',1,'']]],
+  ['timerlistenercounter',['TimerListenerCounter',['../classTimerListenerCounter.html',1,'TimerListenerCounter'],['../classTimerListenerCounter.html#a74de12c02a3817ee7e1a82c4fc588bdc',1,'TimerListenerCounter::TimerListenerCounter()']]],
+  ['timerlisteners',['timerListeners',['../classcs349_1_1Timer.html#afa70c6bf4037daf85f5f4a9281b3a627',1,'cs349::Timer']]],
+  ['timers',['timers',['../classcs349_1_1EventQueue.html#a7bd9eddb4ad117383aedf7bd786a19a4',1,'cs349::EventQueue']]],
+  ['timestr',['timeStr',['../classClock.html#a1b144b8c0822d12381c6bfecbcc820ad',1,'Clock']]],
+  ['todo_5flevel',['TODO_LEVEL',['../Logging_8h.html#a29c424c98f916dc61f406409a9f35ad6',1,'Logging.h']]],
+  ['tostring',['ToString',['../classcs349_1_1Point.html#a43de6e61b6987d66ee945cc3eb497662',1,'cs349::Point::ToString()'],['../classcs349_1_1Rectangle.html#aabe1a38e8012656ce1ef228b02da221a',1,'cs349::Rectangle::ToString()']]],
+  ['transform',['transform',['../classcs349_1_1AffineTransform.html#a90529c95674ed83de1266991e4182a7a',1,'cs349::AffineTransform::transform()'],['../classcs349_1_1Graphics.html#a90f3a1c2bd550653e4ee59323980b051',1,'cs349::Graphics::transform()']]],
+  ['type',['type',['../classcs349_1_1KeyEvent.html#afd802e25d94d79f1e2388ee888029606',1,'cs349::KeyEvent::type()'],['../classcs349_1_1MouseEvent.html#a17025db10a759559333d86aa8587b2db',1,'cs349::MouseEvent::type()']]]
+];
